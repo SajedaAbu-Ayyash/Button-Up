@@ -1,0 +1,29 @@
+.button-1 {
+    border-radius: 40%;
+    height: auto;
+    width: 150px;
+    padding: 10px;
+    text-align: center;
+    color: cyan;
+    border-color: cyan;
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+.button-2 {
+    border-radius: 100%;
+    margin-bottom: 20px;
+    height: 30px;
+    width: 30px;
+    color: white;
+    background-color: cyan;
+    border-color: cyan;
+}
+
+.button-3 {
+    background-color: cornflowerblue;
+    color: white;
+    height: 40px;
+    width: 150px;
+    box-shadow: 10px 5px 5px black;
+}
